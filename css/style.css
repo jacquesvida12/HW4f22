@@ -1,0 +1,97 @@
+*{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    font-size: 30px;
+}
+a.problem1:hover {
+    position: relative;
+}
+a.problem1:hover:after {
+    content: url(../problem1.png); 
+    display: block;
+    position: absolute;
+    left: 30px; 
+    top: 0px; 
+}
+a.problem1{
+    font-size: 30px;
+}
+a.problem2:hover {
+    position: relative;
+}
+a.problem2:hover:after {
+    content: url(../problem2.png); 
+    display: block;
+    position: absolute;
+    left: 30px; 
+    top: 0px; 
+}
+a.problem2{
+    font-size: 30px;
+}
+a.problem3:hover {
+    position: relative;
+}
+a.problem3:hover:after {
+    content: url(../problem3.png); 
+    display: block;
+    position: absolute;
+    left: 30px; 
+    top: 0px; 
+}
+a.problem3{
+    font-size: 30px;
+}
+a.problem4:hover {
+    position: relative;
+}
+a.problem4:hover:after {
+    content: url(../problem4.png); 
+    display: block;
+    position: absolute;
+    left: 30px; 
+    top: 0px; 
+}
+a.problem4{
+    font-size: 30px;
+}
+a.problem5:hover {
+    position: relative;
+}
+a.problem5:hover:after {
+    content: url(../problem5.png); 
+    display: block;
+    position: absolute;
+    left: 30px; 
+    top: 0px; 
+}
+a.problem5{
+    font-size: 30px;
+}
+a.problem6:hover {
+    position: relative;
+}
+a.problem6:hover:after {
+    content: url(../problem6.png); 
+    display: block;
+    position: absolute;
+    left: 30px; 
+    top: 0px; 
+}
+a.problem6{
+    font-size: 30px;
+}
+a.problem7:hover {
+    position: relative;
+}
+a.problem7:hover:after {
+    content: url(../problem7.png); 
+    display: block;
+    position: absolute;
+    left: 30px; 
+    top: 0px; 
+}
+a.problem7{
+    font-size: 30px;
+}
